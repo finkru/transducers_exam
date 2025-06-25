@@ -1,0 +1,29 @@
+PATTERNS
+
+S(1) I(1) S(2) :I(2) S(3) I(2):
+
+
+
+LEXICON S(3)
+
+k t b # to write
+
+ɦ ṛ b # to run away
+
+ʃ ṛ b # to drink
+
+x r ʒ # to go out
+
+d x l # to get in
+
+k m i # to smoke
+
+x w i # to empty
+
+
+
+LEXICON I(2)
+
+:ə <v><caus>:{d}ə
+
+: <v>:ə
