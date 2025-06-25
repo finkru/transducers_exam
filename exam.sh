@@ -1,7 +1,3 @@
-curl -s https://raw.githubusercontent.com/finkru/transducers_exam/refs/heads/main/task.lexd > task.lexd
-curl -s https://raw.githubusercontent.com/finkru/transducers_exam/refs/heads/main/task.twol
-
-
 lexd task.lexd | hfst-txt2fst -o lexd.hfst
 hfst-twolc -q task.twol -o twol.hfst
 hfst-compose-intersect lexd.hfst twol.hfst -o task.hfst
