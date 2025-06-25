@@ -1,3 +1,7 @@
+curl -s https://raw.githubusercontent.com/finkru/transducers_exam/refs/heads/main/task.lexd > task.lexd
+curl -s https://raw.githubusercontent.com/finkru/transducers_exam/refs/heads/main/task.twol
+
+
 lexd task.lexd | hfst-txt2fst -o lexd.hfst
 hfst-twolc -q task.twol -o twol.hfst
 hfst-compose-intersect lexd.hfst twol.hfst -o task.hfst
@@ -14,4 +18,4 @@ else
     echo "All forms are present in the output."
 fi
 
-rm -f forms.txt missing_forms.txt twol.hfst lexd.hfst for_test_exam_02.txt
+rm -f forms.txt missing_forms.txt twol.hfst lexd.hfst
