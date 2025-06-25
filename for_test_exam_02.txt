@@ -1,1 +1,14 @@
-400: Invalid request
+ktb<v><caus>:kəttəb
+kmi<v><caus>:kəmmi
+ktb<v>:ktəb
+kmi<v>:kmi
+ɦṛb<v><caus>:ɦəṛṛəb
+ɦṛb<v>:ɦṛəb
+ʃṛb<v><caus>:ʃəṛṛəb
+ʃṛb<v>:ʃṛəb
+xrʒ<v><caus>:xərrəʒ
+xwi<v><caus>:xəwwi
+xrʒ<v>:xrəʒ
+xwi<v>:xwi
+dxl<v><caus>:dəxxəl
+dxl<v>:dxəl
